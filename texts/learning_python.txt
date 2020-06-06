@@ -1,0 +1,4 @@
+In Python you can create own cool programs.
+In Python you can easily open and change files.
+In Python you can make a game.
+In Python you can create modern sites.
